@@ -156,3 +156,9 @@ Remove some actions from the IAM Policy
 ```
 
 Execute again the same two commands and see what happens.
+
+## Delete resources in AWS
+
+```Terraform
+terraform destroy --auto-appove
+```
